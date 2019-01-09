@@ -1,6 +1,11 @@
 # text-generation-transformer
 text generation based on transformer
 
+## Tokenize
+Tokenizer is based on [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT)
+
+Bert pretraining model will probably be integrated into the model soon if better result is achieved. 
+
 ## Specify path to input data 
 See `Data Loading / fashion data` module
 
